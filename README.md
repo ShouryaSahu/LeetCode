@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShouryaSahu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ShouryaSahu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ShouryaSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShouryaSahu/LeetCode/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShouryaSahu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ShouryaSahu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShouryaSahu/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShouryaSahu/LeetCode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ShouryaSahu/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
