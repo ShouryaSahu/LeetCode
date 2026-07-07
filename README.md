@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShouryaSahu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ShouryaSahu/LeetCode/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShouryaSahu/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
