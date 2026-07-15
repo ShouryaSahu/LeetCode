@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShouryaSahu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ShouryaSahu/LeetCode/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShouryaSahu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShouryaSahu/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShouryaSahu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
