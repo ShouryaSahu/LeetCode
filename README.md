@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShouryaSahu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ShouryaSahu/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ShouryaSahu/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ShouryaSahu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShouryaSahu/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShouryaSahu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
