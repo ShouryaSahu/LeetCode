@@ -1,8 +1,22 @@
 class Solution {
     public int findGCD(int[] nums) {
         int n = nums.length;
-        Arrays.sort(nums);
-        return GCD(nums[n-1], nums[0]);
+        // not useful as timecomplexity is more
+        // Arrays.sort(nums); 
+        // return GCD(nums[n-1], nums[0]);
+
+        int min = nums[0];
+        int max = nums[0];
+        for(int i = 0 ; i < n ; i++){
+            if(nums[i] > max){
+                max = nums[i];
+            }
+            if(nums[i] < min){
+                min = nums[i];
+            }
+        }
+        return GCD(max, min);
+
     }
 
     private int GCD(int a, int b){
