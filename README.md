@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShouryaSahu/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ShouryaSahu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ShouryaSahu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShouryaSahu/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ShouryaSahu/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ShouryaSahu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShouryaSahu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShouryaSahu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShouryaSahu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShouryaSahu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShouryaSahu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShouryaSahu/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShouryaSahu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/0229-majority-element-ii) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
