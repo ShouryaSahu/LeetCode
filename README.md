@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/ShouryaSahu/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShouryaSahu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShouryaSahu/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3895-count-digit-appearances](https://github.com/ShouryaSahu/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShouryaSahu/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3668-restore-finishing-order](https://github.com/ShouryaSahu/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3895-count-digit-appearances](https://github.com/ShouryaSahu/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |
 | ------- |
