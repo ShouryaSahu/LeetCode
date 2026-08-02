@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShouryaSahu/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShouryaSahu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ShouryaSahu/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ShouryaSahu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShouryaSahu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ShouryaSahu/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/ShouryaSahu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShouryaSahu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShouryaSahu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShouryaSahu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/ShouryaSahu/LeetCode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShouryaSahu/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShouryaSahu/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
