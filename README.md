@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ShouryaSahu/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ShouryaSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/ShouryaSahu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ShouryaSahu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/0229-majority-element-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShouryaSahu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShouryaSahu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ShouryaSahu/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ShouryaSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShouryaSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShouryaSahu/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShouryaSahu/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShouryaSahu/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShouryaSahu/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ShouryaSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShouryaSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/ShouryaSahu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
