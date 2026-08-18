@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShouryaSahu/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShouryaSahu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/ShouryaSahu/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/ShouryaSahu/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShouryaSahu/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShouryaSahu/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/ShouryaSahu/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShouryaSahu/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ShouryaSahu/LeetCode/tree/master/3731-find-missing-elements) |
