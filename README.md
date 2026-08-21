@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShouryaSahu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ShouryaSahu/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ShouryaSahu/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShouryaSahu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ShouryaSahu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShouryaSahu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ShouryaSahu/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ShouryaSahu/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ShouryaSahu/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
