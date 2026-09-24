@@ -1,12 +1,15 @@
 class Solution {
     public void rotate(int[] nums, int k) {
                int n = nums.length;
-        k = k % n;
+                k = k % n; // 
 
         int[] temp = new int[n];
 
         for (int i = 0; i < n; i++) {
             temp[(i + k) % n] = nums[i];
+            //Direct K shift krke temp mei store kr rhe ussi index pr aur yeah temp[(i + k) % n] use krne se hum pure circular mei store kr skte hai !!
+            // temp[3] = nums[0]
+            // temp[4] = nums[1]
         }
 
         for (int i = 0; i < n; i++) {
