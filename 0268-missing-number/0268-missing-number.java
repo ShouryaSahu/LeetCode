@@ -1,5 +1,26 @@
 class Solution {
     public int missingNumber(int[] nums) {
+
+        // int total = 0;
+        // int arr = 0;
+        // for(int i = 0 ; i <= nums.length ; i++){
+        //     total ^= i;
+        // }
+        // for(int num : nums){
+        //     arr ^= num;
+        // }
+        // return (total ^ arr);
+
+        int n = nums.length;
+        int total = n * (n + 1) / 2;
+        int arrSum = 0;
+        for(int num : nums){
+            arrSum += num;
+        }
+
+        return total - arrSum;
+
+        
         // Not optimal solution!!
         // int n = nums.length;
         // Arrays.sort(nums);
@@ -23,14 +44,6 @@ class Solution {
 
         // return (total - sum);
 
-        int total = 0;
-        int arr = 0;
-        for(int i = 0 ; i <= nums.length ; i++){
-            total ^= i;
-        }
-        for(int num : nums){
-            arr ^= num;
-        }
-        return (total ^ arr);
+        
     }
 }
