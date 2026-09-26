@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1768-merge-strings-alternately](https://github.com/ShouryaSahu/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShouryaSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ShouryaSahu/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ShouryaSahu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/ShouryaSahu/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaSahu/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShouryaSahu/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
