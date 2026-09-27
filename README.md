@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/ShouryaSahu/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShouryaSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ShouryaSahu/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ShouryaSahu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShouryaSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShouryaSahu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
