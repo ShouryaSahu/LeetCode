@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShouryaSahu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ShouryaSahu/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShouryaSahu/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShouryaSahu/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShouryaSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ShouryaSahu/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShouryaSahu/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShouryaSahu/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShouryaSahu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ShouryaSahu/LeetCode/tree/master/0383-ransom-note) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ShouryaSahu/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
