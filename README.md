@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShouryaSahu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShouryaSahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShouryaSahu/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/ShouryaSahu/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShouryaSahu/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShouryaSahu/LeetCode/tree/master/3731-find-missing-elements) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShouryaSahu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShouryaSahu/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShouryaSahu/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShouryaSahu/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ShouryaSahu/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShouryaSahu/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShouryaSahu/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
