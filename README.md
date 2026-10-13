@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShouryaSahu/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShouryaSahu/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/ShouryaSahu/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShouryaSahu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShouryaSahu/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/ShouryaSahu/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/ShouryaSahu/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShouryaSahu/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
