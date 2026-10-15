@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShouryaSahu/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/ShouryaSahu/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ShouryaSahu/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShouryaSahu/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShouryaSahu/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShouryaSahu/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ShouryaSahu/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
