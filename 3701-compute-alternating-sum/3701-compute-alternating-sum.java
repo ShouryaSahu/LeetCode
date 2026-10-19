@@ -10,8 +10,7 @@ class Solution {
         int sum = 0;
         boolean even = true;
         for(int num : nums){
-            if(even) sum += num;
-            else sum -= num;
+            sum = even ? (sum + num) : (sum - num);
             even = !even;
         }
         return sum;
