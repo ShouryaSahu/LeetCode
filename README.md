@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShouryaSahu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShouryaSahu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/ShouryaSahu/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ShouryaSahu/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShouryaSahu/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ShouryaSahu/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ShouryaSahu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/ShouryaSahu/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ShouryaSahu/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShouryaSahu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShouryaSahu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
