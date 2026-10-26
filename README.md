@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaSahu/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShouryaSahu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2409-count-days-spent-together](https://github.com/ShouryaSahu/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShouryaSahu/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShouryaSahu/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShouryaSahu/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShouryaSahu/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ShouryaSahu/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2409-count-days-spent-together](https://github.com/ShouryaSahu/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShouryaSahu/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShouryaSahu/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShouryaSahu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
